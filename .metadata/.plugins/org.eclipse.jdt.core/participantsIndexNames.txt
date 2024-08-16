@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Admin\Downloads\QLDSV-main\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2315389583.index
+\quanlydiem\src
+C:\Users\Admin\Downloads\QLDSV-main\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2365994394.index
+\quanlydiem\src
+C:\Users\Admin\Downloads\QLDSV-main\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2818886889.index
+\quanlydiem\src
+C:\Users\Admin\Downloads\QLDSV-main\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2548773074.index
+\quanlydiem\src
